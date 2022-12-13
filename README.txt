@@ -7,7 +7,8 @@
 	menu.h  menu.cpp
 	action.h  action.cpp
 	mainwindow.h  mainwindow.cpp  mainwindow.ui
-	Oasis_Pro                      
+	Oasis_Pro.pro
+	main.cpp                      
 
 4. Test Scenarios:
 	1.Power and "Ending A Session"  pass
